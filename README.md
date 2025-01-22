@@ -41,6 +41,6 @@ Result pln
     }
 ````
 
-7 digit number 3232121 = geolocation
+7 digit number 3232121 = region
 
 
