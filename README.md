@@ -1,10 +1,9 @@
 # pln-token
+    
+Eleven-digit number at the top or bottom of the barcode on the electricity meter installed in the house. To top up electricity credits, you need to enter the meter number accordingly.
 
-sebelas digit angka di bagian atas atau bawah barcode kotak meteran listrik yang terpasang di rumah. Untuk melakukan pengisian pulsa listrik, kamu perlu memasukkan nomor meteran yang sesua
+Example customer number: 321203131053
 
-example nomer pelanggang 321203131053
-
-Result 
 ````
     "info": {
       "Meter_ID": "14312593289",
